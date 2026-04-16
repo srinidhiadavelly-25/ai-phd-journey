@@ -1,3 +1,4 @@
+#Day 2 conditions
 """
 #Program to check if a number is positive, negative, or zero.
 num = float(input("Enter a num: "))
