@@ -1,4 +1,6 @@
-#with list
+#habit_tracker program
+# with list
+
 hours_list = []
 days = int(input("Enter how many days you  study: "))
 for i in range(days):
