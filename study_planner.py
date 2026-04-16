@@ -1,4 +1,4 @@
-#study planner
+#study planner program
 # study_hours = int(input("How many hrs you can study today: "))
 if study_hours >= 4:
     print("Intense study")
