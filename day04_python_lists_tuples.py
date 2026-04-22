@@ -10,7 +10,7 @@ for i in range(5):
     n = int(input("Enter number: "))
     numbers.append(n)
     total = total+n
-Average = total/5
+Average = total/len(n)
 print("Max: ", max(numbers))
 print("Min: ", min(numbers))
 print("Average: ", Average)
